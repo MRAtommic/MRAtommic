@@ -1,37 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Few;IT+Student+@+KMUTNB;Coding+%26+Learning...&height=60" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Few;IT+Student+@+KMUTNB;Coding+%26+Learning...&height=60" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>ยินดีต้อนรับสู่โปรไฟล์ MRAtommic!!</h3>
+  <h1><font color="#58A6FF">WELCOME TO MRATOMMIC PROFILE</font></h1>
 </div>
 
 ---
 
-#เกี่ยวกับผม (About Me)
+## <font color="#79C0FF">ABOUT ME</font>
 
-- ชื่อเล่น : ฟิว (Few)
-- การศึกษา : นักศึกษาชั้นปีที่ 3 สาขาเทคโนโลยีสารสนเทศ (IT)
-- มหาวิทยาลัย : มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ (KMUTNB)
-- สิ่งที่กำลังสนใจ : Web Development, Data Science ,Mobile Developer 
-- คติประจำใจ : You are the result of what you do.*
+- **NAME** : <font color="#D2A8FF">FEW</font>
+- **EDUCATION** : `3rd Year Information Technology`
+- **UNIVERSITY** : `KMUTNB (Prachinburi)`
+- **INTERESTS** : <font color="#FFA657">Web Development</font> | <font color="#7EE787">Data Science</font> | <font color="#FF7B72">Mobile Developer</font>
+- **MOTTO** : *`"You are the result of what you do."`*
 
 ---
 
-### Tech Stack & Tools
+## <font color="#79C0FF">TECH STACK & TOOLS</font>
+
+### <font color="#58A6FF">LANGUAGES</font>
+`PYTHON` • `JAVASCRIPT` • `JAVA` • `HTML5` • `CSS3` • `SQL`
+
+### <font color="#58A6FF">FRAMEWORKS & TOOLS</font>
+`REACT` • `NODE.JS` • `GIT` • `MYSQL`
+
+---
+
+## <font color="#79C0FF">GITHUB STATISTICS</font>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MRAtommic&show_icons=true&theme=tokyonight&hide_border=true&title_color=79C0FF&text_color=C9D1D9" alt="Few Stats" />
 </p>
 
 ---
+
+## <font color="#79C0FF">PROJECTS STATUS</font>
+
+| <font color="#58A6FF">Project Name</font> | <font color="#58A6FF">Tech Stack</font> | <font color="#58A6FF">Status</font> |
+| :--- | :--- | :--- |
+| **`Web Development`** | `React` `Node.js` | <font color="#7EE787">ACTIVE</font> |
+| **`Data Science`** | `Python` | <font color="#FFA657">LEARNING</font> |
+| **`Mobile App`** | `Java` | <font color="#FF7B72">PLANNING</font> |
+
+---
+
+<div align="center">
+  <font color="#8B949E">DEVELOPED BY MRATOMMIC</font>
+</div>
+
+---
+
+### <font color="#7EE787">EXPLORE MY JOURNEY</font>
+<div align="center">
+  <img src="https://github.com/mrd-hmd/mrd-hmd/blob/main/Resources/earth.gif?raw=true" width="200" height="200" alt="Coding Journey" />
+</div>
+
+### <font color="#FFA657">KEEP CODING, KEEP LEARNING</font>
+<div align="center">
+  <img src="https://media.giphy.com/media/LmN8EsJcRkK0M/giphy.gif" width="250" alt="Coding Animation" />
+</div>
+
+### <font color="#FF7B72">BUILDING THE FUTURE, LINE BY LINE</font>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgMIEZpL9Cj0k/giphy.gif" width="250" alt="Developer Animation" />
+</div>

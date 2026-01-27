@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>ยินดีต้อนรับสู่โปรไฟล์ MRAtommic!!</h3>
+  <h3 color = blue>ยินดีต้อนรับสู่โปรไฟล์ MRAtommic!!</h3>
 </div>
 
 ---

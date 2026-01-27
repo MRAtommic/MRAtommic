@@ -3,22 +3,22 @@
 </div>
 
 <div align="center">
-  <h3 color = blue>ยินดีต้อนรับสู่โปรไฟล์ MRAtommic!!</h3>
+  <h3>ยินดีต้อนรับสู่โปรไฟล์ MRAtommic!!</h3>
 </div>
 
 ---
 
 #เกี่ยวกับผม (About Me)
 
-- 🎓 ชื่อเล่น : ฟิว (Few)
-- 🏫 การศึกษา : นักศึกษาชั้นปีที่ 3 สาขาเทคโนโลยีสารสนเทศ (IT)
-- 🏛 มหาวิทยาลัย : มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ (KMUTNB)
-- 🌱 สิ่งที่กำลังสนใจ : Web Development, Data Science
-- 💬 คติประจำใจ : You are the result of what you do.*
+- ชื่อเล่น : ฟิว (Few)
+- การศึกษา : นักศึกษาชั้นปีที่ 3 สาขาเทคโนโลยีสารสนเทศ (IT)
+- มหาวิทยาลัย : มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ (KMUTNB)
+- สิ่งที่กำลังสนใจ : Web Development, Data Science ,Mobile Developer 
+- คติประจำใจ : You are the result of what you do.*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />

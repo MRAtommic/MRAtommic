@@ -50,7 +50,7 @@
 | :--- | :--- | :--- |
 | **`Web Development`** | `React` `Node.js` | <font color="#7EE787">ACTIVE</font> |
 | **`Data Science`** | `Python` | <font color="#FFA657">LEARNING</font> |
-| **`Mobile App`** | `Java` | <font color="#FF7B72">PLANNING</font> |
+| **`Mobile App`** | `Kotlin ` | <font color="#FF7B72">PLANNING</font> |
 
 ---
 

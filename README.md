@@ -1,10 +1,20 @@
 
 <div align="center">
   <h1><font color="#58A6FF">WELCOME TO MRATOMMIC PROFILE</font></h1>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Few;IT+Student+@+KMUTNB;Coding+%26+Learning...&height=60" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3eXpueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFwcA/qgMIEZpL9Cj0k/giphy.gif" width="300" />
+</div>
+
+---
+
 ## <font color="#79C0FF">ABOUT ME</font>
+
 - **NAME** : <font color="#D2A8FF">FEW</font>
 - **EDUCATION** : `3rd Year Information Technology`
 - **UNIVERSITY** : `KMUTNB (Prachinburi)`
@@ -21,7 +31,6 @@
 ### <font color="#58A6FF">FRAMEWORKS & TOOLS</font>
 `REACT` • `NODE.JS` • `GIT` • `MYSQL`
 
-<br/>
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFwcA/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
 </p>

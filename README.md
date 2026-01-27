@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Few;IT+Student+@+KMUTNB;Coding+%26+Learning...&height=60" alt="Typing SVG" />
 </div>
 ---
----
 ## <font color="#79C0FF">ABOUT ME</font>
 ---
 - **NAME** : <font color="#D2A8FF">FEW</font>

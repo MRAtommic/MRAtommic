@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/cfeopMwD7zq.gif" width="300" />
+  <img src="https://giphy.com/gifs/script-kiddie-kitty-P8ef3Dkynk0xLx1h1T" width="300" />
 </div>
 
 ---

@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/th/view/ngoding-mulu-gif-1747207714643625346" width="300" />
+  <img "https://tenor.com/cfeopMwD7zq.gif" width="300" />
 </div>
 
 ---

@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/th/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" width="300" />
+  <img src="https://tenor.com/cfeopMwD7zq.gif" width="300" />
 </div>
 
 ---

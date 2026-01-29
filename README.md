@@ -55,7 +55,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZueHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFwcA/SWoRKslL3q9qSSTatx/giphy.gif" width="100%" height="50px" />
+  <img src="3.gif" width="20%" height="20%" />
   <br/>
   <font color="#8B949E">DEVELOPED BY MRATOMMIC</font>
 </div>

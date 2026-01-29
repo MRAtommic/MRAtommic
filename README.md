@@ -55,7 +55,7 @@
 ---
 
 <div align="center">
-  <img src="3.gif" width="20%" height="20%" />
+  <img src="3.gif" width="15%" height="15%" />
   <br/>
   <font color="#8B949E">DEVELOPED BY MRATOMMIC</font>
 </div>

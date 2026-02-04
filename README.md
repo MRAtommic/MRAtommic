@@ -40,7 +40,9 @@
 ## <font color="#79C0FF">GITHUB STATISTICS</font>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRAtommic&show_icons=true&theme=tokyonight&hide_border=true&title_color=79C0FF&text_color=C9D1D9" alt="Few Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MRAtommic&show_icons=true&theme=tokyonight&hide_border=true&title_color=79C0FF&text_color=C9D1D9" alt="Few Stats" width="400" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MRAtommic&layout=compact&theme=tokyonight&hide_border=true&title_color=79C0FF&text_color=C9D1D9" alt="Top Languages" width="400" />
 </p>
 
 ---

@@ -15,7 +15,7 @@
 ## <font color="#79C0FF">ABOUT ME</font>
 
 - **NAME** : <font color="#D2A8FF">FEW</font>
-- **EDUCATION** : `3rd Year Information Technology`
+- **EDUCATION** : `4rd Year Information Technology`
 - **UNIVERSITY** : `KMUTNB (Prachinburi)`
 - **WEBSITE** : <a href="https://mratommic.github.io/"><font color="#58A6FF">mratommic.github.io</font></a>
 - **INTERESTS** : <font color="#FFA657">Web Development</font> | <font color="#7EE787">Data Science</font> | <font color="#FF7B72">Mobile Developer</font>

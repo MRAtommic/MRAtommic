@@ -17,7 +17,7 @@
 - **NAME** : <font color="#D2A8FF">FEW</font>
 - **EDUCATION** : `4rd Year Information Technology`
 - **UNIVERSITY** : `KMUTNB (Prachinburi)`
-- **WEBSITE** : <a href="https://mratommic.github.io/Website_MRAtommic.github.io/">/mratommic.github.io/Website_MRAtommic.github.io</font></a>
+- **WEBSITE** : <a href="https://mratommic.github.io/">/mratommic.github.io</font></a>
 - **INTERESTS** : <font color="#FFA657">Web Development</font> | <font color="#7EE787">Data Science</font> | <font color="#FF7B72">Mobile Developer</font>
 - **MOTTO** : *`"You are the result of what you do."`*
 

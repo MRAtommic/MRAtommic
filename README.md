@@ -18,7 +18,7 @@
 - **EDUCATION** : `4rd Year Information Technology`
 - **UNIVERSITY** : `KMUTNB`
 - **WEBSITE** : <a href="https://mratommic.github.io/">mratommic.github.io</font></a>
-- **INTERESTS** : <font color="#FFA657">Web Development</font> | <font color="#7EE787">Data Science</font> | <font color="#FF7B72">Mobile Developer</font>
+- **INTERESTS** : <font color="#FFA657">Web Development</font> | <font color="#7EE787">Data Science</font>
 - **MOTTO** : *`"You are the result of what you do."`*
 
 ---
